@@ -1,0 +1,20 @@
+﻿#  Build-Ausgaben
+*.exe
+*.obj
+*.o
+*.dll
+
+#  Temporäre Dateien
+*.log
+*.tmp
+
+#  VS Code
+.vscode/
+
+#  Windows & Mac
+.DS_Store
+Thumbs.db
+
+#  Python
+__pycache__/
+*.pyc
